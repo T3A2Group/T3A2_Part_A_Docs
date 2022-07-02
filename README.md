@@ -1,9 +1,19 @@
+# T3A2-A - Tasmania Resort Online Platform
 
-Hello from Nora
+## Purpose
 
+## Functionality / features
 
-Hello World --Yun
+## Target Audience
 
+## Tech stack
 
-update- README --Lance
+## Dataflow Diagram
 
+## Application Architechture Diagram
+
+## User Stories
+
+## Wireframes
+
+## Screenshots of Trello Board
