@@ -158,6 +158,22 @@ If we have more time:
 
 ## Tech stack
 
+### Front-end
+
+- HTML, CSS, Javascript, React, Axios
+
+### Back-end
+
+- Node.js, Express.js
+
+### Database
+
+- MongoDB, mongoose, AWS S3
+
+### Testing
+
+- Jest
+
 ## Dataflow Diagram
 
 ## Application Architechture Diagram
@@ -171,7 +187,7 @@ If we have more time:
 - As a customer looking to stay at the hotel in Tasmania Resort, I want to book my hotel online so that it is easier to book my holiday.
 - As a customer looking to book a hotel room, I want easy access to view all available room types offered by this resort given the specified dates so that it is easy to view and compare my options.
 - As a customer who is interested in a specific room type, I want to be able to view more details about the room so that I can be informed about what I'm potentially buying.
-- As a customer who likes to gift friends and family souvenirs from trips, I want to be able to purchase souvenirs online incase I forget to buy them or run out of luggage space on the way back home so that I don't go home empty-handed.
+- As a customer who likes to gift friends and family souvenirs from trips, I want to be able to purchase souvenirs online in case I forget to buy them or run out of luggage space on the way back home so that I don't go home empty-handed.
 - As a customer looking to purchase some souvenirs, I want easy access to view all available souvenirs offered so that it is easy to view and compare my options.
 - As a customer who is interested in a specific souvenir, I want to be able to view more details about the product so that I can be informed about what I'm potentially buying.
 - As a customer who wants to dine at the resort, I want to be able to order food online so I can beat the rush at the restaurant.
@@ -188,19 +204,21 @@ If we have more time:
 
 #### Cart and Payment
 
+- As a customer who has never bought from/stayed at Tasmania Resort before, I want to see reviews from previous customers to help guide me make a better decision.
 - As a customer who is browsing the website, I want to be able to add items to a cart while I continue to browse so that I don't forget what I was going to buy.
 - As a customer who wants to know how much I'm spending, I want to see all the items I'm purchasing and the total cost of these items in the cart so that I can double check before paying.
-- As a customer who has trouble making decisions, I want to be able to add/remove the quantity of an item in the cart so that I don't have to be hasseled by navigating through the website again.
+- As a customer who has trouble making decisions, I want to be able to add/remove the quantity of an item in the cart so that I don't have to be hassled by navigating through the website again.
 - As a customer who is making a purchase/booking, I want to be able to make payment online so that I can still purchase the item without being at the resort in person.
 
 #### After purchase/booking
 
-- As a customer who is spontaneous and change travel plans from time to time, I want to be able to edit or cancel my hotel booking so that I can retain my flexible lifestyle without wasting too much money.
+- As a customer who is spontaneous and changes travel plans from time to time, I want to be able to edit or cancel my hotel booking so that I can retain my flexible lifestyle without wasting too much money.
 - As a customer who has made a purchase/booking, I want to be able to check the status of my order (i.e. Order/booking pending, order/booking confirmed etc...) so that I can manage my expectations.
-- As a customer who has made a purchase/booking, I want to be able to leave comments on purchases that I've made or hotel room that I stayed in so that I can express my opinion and share my experience.
+- As a customer who has made a purchase/booking, I want to be able to leave comments on purchases that I've made or hotel rooms that I stayed in so that I can express my opinion and share my experience.
 
 ### As the manager of Tasmania Resort...
 
+- As the manager who needs to delegate tasks, I want to be able to assign administration access to staff accounts so that they can perform administrative tasks such as editing product details.
 - As the manager who manages the product offerings, I want to be able to add a new product (merchandise/hotel room type) for sale on the website so that they can be sold online when they are launched.
 - As the manager who oversees the sales process, when a customer makes a purchase/books a room, I need to be able to confirm the sale before it is processed to ensure we don't overbook the hotel or oversell products.
 - As the manager who knows when the peak travel seasons are, I want to be able to edit the details (price, description etc...) of the listings so that I can maximise profits for the resort.
