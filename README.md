@@ -180,6 +180,10 @@ If we have more time:
 
 ## Dataflow Diagram
 
+![Level 0 and level 1](src/dataflow_1.jpeg)
+![Level 2 logic 1 2 3 4](src/dataflow_2.jpeg)
+![Level 2 logic 7](src/dataflow_5.jpeg)
+
 ## Application Architechture Diagram
 
 ## User Stories
