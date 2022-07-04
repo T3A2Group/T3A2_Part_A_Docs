@@ -160,7 +160,7 @@ If we have more time:
 
 ### Front-end
 
-- HTML, CSS, Javascript, React, Axios
+- HTML, CSS, Javascript, React, Axios, Material-UI
 
 ### Back-end
 
@@ -173,6 +173,10 @@ If we have more time:
 ### Testing
 
 - Jest
+
+### Deployment
+
+- Heroku
 
 ## Dataflow Diagram
 
