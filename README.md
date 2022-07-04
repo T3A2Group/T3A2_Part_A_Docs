@@ -160,7 +160,7 @@ If we have more time:
 
 ### Front-end
 
-- HTML, CSS, Javascript, React, Axios
+- HTML, CSS, Javascript, React, Axios, Material-UI
 
 ### Back-end
 
@@ -173,6 +173,10 @@ If we have more time:
 ### Testing
 
 - Jest
+
+### Deployment
+
+- Heroku
 
 ## Dataflow Diagram
 
@@ -187,7 +191,7 @@ If we have more time:
 - As a customer looking to stay at the hotel in Tasmania Resort, I want to book my hotel online so that it is easier to book my holiday.
 - As a customer looking to book a hotel room, I want easy access to view all available room types offered by this resort given the specified dates so that it is easy to view and compare my options.
 - As a customer who is interested in a specific room type, I want to be able to view more details about the room so that I can be informed about what I'm potentially buying.
-- As a customer who likes to gift friends and family souvenirs from trips, I want to be able to purchase souvenirs online in case I forget to buy them or run out of luggage space on the way back home so that I don't go home empty-handed.
+- As a customer who likes to gift friends and family souvenirs from trips, I want to be able to purchase souvenirs online incase I forget to buy them or run out of luggage space on the way back home so that I don't go home empty-handed.
 - As a customer looking to purchase some souvenirs, I want easy access to view all available souvenirs offered so that it is easy to view and compare my options.
 - As a customer who is interested in a specific souvenir, I want to be able to view more details about the product so that I can be informed about what I'm potentially buying.
 - As a customer who wants to dine at the resort, I want to be able to order food online so I can beat the rush at the restaurant.
