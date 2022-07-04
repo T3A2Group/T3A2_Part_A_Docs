@@ -177,32 +177,42 @@ If we have more time:
 - As a customer who wants to dine at the resort, I want to be able to order food online so I can beat the rush at the restaurant.
 - As a customer looking to order some food, I want easy access to view all available food offered so that it is easy to view and compare my options.
 - As a customer who is interested in a particular dish, I want to be able to view more details about the dish so that I can be informed about what I'm potentially ordering.
+- As a customer looking to book a room/make a purchase, I want to be able to search for what I need so that only items matching my search criteria are shown to me.
 
 #### Account management
 
-- As a customer who is going to make bookings and/or purchases from Tasmania Resort, I want to be able to register for a new account so that I can make and track bookings/purchases.
-- As a customer who is going to make bookings and/or purchases from Tasmania Resort, I want to be able to sign in to my account so that I can view my purchases and bookings.
-- As a customer who is spontaneous and change travel plans from time to time, I want to be able to edit or cancel my hotel booking so that I can retain my flexible lifestyle without wasting too much money.
+- As a customer who is going to make bookings and/or purchases, I want to be able to register for a new account so that I can make and track bookings/purchases.
+- As a customer who is going to make bookings and/or purchases, I want to be able to sign in to my account so that I can view my purchases and bookings.
+- As a customer who has an account, I want to be able to change my password whenever required so that I can retrieve my account even if I forget the current password.
+- As a customer who has an account, I want to be able to upload a picture to use as my profile picture so that I can make my account more tailored to me.
 
 #### Cart and Payment
 
 - As a customer who is browsing the website, I want to be able to add items to a cart while I continue to browse so that I don't forget what I was going to buy.
 - As a customer who wants to know how much I'm spending, I want to see all the items I'm purchasing and the total cost of these items in the cart so that I can double check before paying.
 - As a customer who has trouble making decisions, I want to be able to add/remove the quantity of an item in the cart so that I don't have to be hasseled by navigating through the website again.
-- As a customer who is not in Tasmania, I want to be able to make payment online so that I can still purchase the item without being at the resort in person.
+- As a customer who is making a purchase/booking, I want to be able to make payment online so that I can still purchase the item without being at the resort in person.
+
+#### After purchase/booking
+
+- As a customer who is spontaneous and change travel plans from time to time, I want to be able to edit or cancel my hotel booking so that I can retain my flexible lifestyle without wasting too much money.
+- As a customer who has made a purchase/booking, I want to be able to check the status of my order (i.e. Order/booking pending, order/booking confirmed etc...) so that I can manage my expectations.
+- As a customer who has made a purchase/booking, I want to be able to leave comments on purchases that I've made or hotel room that I stayed in so that I can express my opinion and share my experience.
 
 ### As the manager of Tasmania Resort...
 
 - As the manager who manages the product offerings, I want to be able to add a new product (merchandise/hotel room type) for sale on the website so that they can be sold online when they are launched.
+- As the manager who oversees the sales process, when a customer makes a purchase/books a room, I need to be able to confirm the sale before it is processed to ensure we don't overbook the hotel or oversell products.
 - As the manager who knows when the peak travel seasons are, I want to be able to edit the details (price, description etc...) of the listings so that I can maximise profits for the resort.
-- As the manager who oversees the stock level of products/hotel rooms, I want to be able to adjust the availability status of these items so that customers don't accidentally purchase something that is out of stock.
 - As the manager who needs to report sales performance to upper level management, I want to be able to see past sales of products and hotel rooms so that I can discuss them with my manager.
-- As the manager who wants to ensure the accuracy of product offerings on our website, I want to be able to remove a product/room type from the website so that customers are not disappointed when they can no longer buy the product or book that type of hotel room.
+- As the manager who needs to ensure the accuracy of product offerings on our website, I want to be able to remove a product/room type from the website so that customers are not disappointed when they can no longer buy the product or book that type of hotel room.
 
 ### User stories for extra features if time allows
 
 - As a customer looking to travel to Tasmania for a holiday, I want easy access to view all available travel packages offered by this resort so that it is easy to view and compare my options.
 - As a customer who is interested in a specific travel package, I want to be able to view more details about the package so that I can be informed about what I'm potentially buying.
+- As a customer who has questions regarding a product, I want to be able to live chat with a staff member so that my issue can be resolved as soon as possible.
+- As a customer who has visited the resort many times, I want to be a part of a rewards program so that I can receive discounts for being a loyal customer.
 
 ## Wireframes
 
