@@ -186,6 +186,8 @@ If we have more time:
 
 ## Application Architechture Diagram
 
+![Architechture Diagram](./architecture-diagram/Tasmania-Resort-Architecture-Diagram.drawio.png)
+
 ## User Stories
 
 ### As a customer...
