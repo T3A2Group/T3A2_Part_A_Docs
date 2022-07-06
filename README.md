@@ -156,6 +156,8 @@ If we have more time:
 
 ## Target Audience
 
+This website is aimed at people who are looking for a one-stop shop travel solution for Tasmania with service offerings including accommodation, food, tours and shopping. The website is also for staff members at Tasmania Resort to perform operational tasks such as the management of product listings etc...
+
 ## Tech stack
 
 ### Front-end
