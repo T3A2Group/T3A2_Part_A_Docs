@@ -2,6 +2,14 @@
 
 ## Purpose
 
+Our client Tasmania Resort, came from humble beginnings and has now grown into a successful and diverse business, offering services to people who are looking for a one-stop shop travel solution for Tasmania.
+
+In order to keep up with their ever-growing customer demand and tap into the online market, Tasmania Resort has approached us to design and build a full-stack web application to bring their business online. As such, the purpose of this website is to provide an online platform as a digital solution to enable the delivery of their offerings to customers everywhere.
+
+The website will offer everything a customer could need for the trip such as researching the tourist destinations to plan their trip and get inspiration, purchasing local products and food, and booking accommodation and tour packages. It will also feature an easy to use online payment system to allow customers to make purchases from anywhere, anytime.
+
+Additionally, administrative functions such as product and order management can be provisioned to staff accounts to provide a fully integrated solution for the resort.
+
 ## Functionality / features
 
 ### Functionality
