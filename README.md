@@ -190,10 +190,10 @@ If we have more time:
 
 </details>
 
-1. Send messages through the application
+<!-- 1. Send messages through the application
    - If we have time we could build an application chat feature.
    - It allows customers could leave messages to staff and get askers.
-   - It allows staff to talk with each other and have group chat areas.
+   - It allows staff to talk with each other and have group chat areas. -->
 
 ## Target Audience
 
@@ -223,9 +223,7 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 ## Dataflow Diagram
 
-![Level 0 and level 1](src/dataflow_1.jpeg)
-![Level 2 logic 1 2 3 4](src/dataflow_2.jpeg)
-![Level 2 logic 7](src/dataflow_5.jpeg)
+![Level 0 and level 1](src/Dataflow-Diagram/DFD.jpeg)
 
 ## Application Architechture Diagram
 
