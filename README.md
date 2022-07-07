@@ -1,6 +1,35 @@
-# T3A2-A - Tasmania Resort
+<h1 align="center"> Weclome to Tasmania Resort </h1>
 
-## Purpose
+<p align="center">
+    <img src="./src/Company-Logo/Tasmania-Resort-Logo.jpg">
+</p>
+
+## T3A2 - A - Tasmania Resort
+
+<p align="center">
+    <img src="./src/Company-Brochure/Tasmania-Resort-Brochure%20.png">
+</p>
+
+### Table of Contents
+
+- [Description of the website](#description-of-the-website)
+
+  - [Purpose](#purpose)
+  - [Functionality and Features](#functionality-and-features)
+  - [Target Audience](#target-audience)
+  - [Tech stack](#tech-stack)
+
+- [Dataflow Diagram](#dataflow-diagram)
+- [Application Architechture Diagram](#application-architechture-diagram)
+- [User Stories](#user-stories)
+- [Wireframes](#wireframes)
+- [Screenshots of Trello Board](#screenshots-of-trello-board)
+
+<hr>
+
+## Description of the website
+
+### Purpose
 
 Our client Tasmania Resort, came from humble beginnings and has now grown into a successful and diverse business, offering services to people who are looking for a one-stop shop travel solution for Tasmania.
 
@@ -10,9 +39,9 @@ The website will offer everything a customer could need for the trip such as res
 
 Additionally, administrative functions such as product and order management can be provisioned to staff accounts to provide a fully integrated solution for the resort.
 
-## Functionality / features
+### Functionality and Features
 
-### Functionality
+#### Functionality
 
 <details>
   <summary> User management </summary>
@@ -124,7 +153,7 @@ If we have more time:
 
 </details>
 
-### Features
+#### Features
 
 <details>
   <summary> Online shopping </summary>
@@ -195,45 +224,45 @@ If we have more time:
    - It allows customers could leave messages to staff and get askers.
    - It allows staff to talk with each other and have group chat areas.
 
-## Target Audience
+### Target Audience
 
 This website is aimed at people who are looking for a one-stop shop travel solution for Tasmania with service offerings including accommodation, food, tours and shopping. The website is also for staff members at Tasmania Resort to perform operational tasks such as the management of product listings etc...
 
-## Tech stack
+### Tech stack
 
-### Front-end
+#### Front-end
 
 - HTML, CSS, Javascript, React, Axios, Material-UI
 
-### Back-end
+#### Back-end
 
 - Node.js, Express.js
 
-### Database
+#### Database
 
 - MongoDB, mongoose, AWS S3
 
-### Testing
+#### Testing
 
 - Jest
 
-### Deployment
+#### Deployment
 
 - Heroku
 
-## Dataflow Diagram
+### Dataflow Diagram
 
 ![Level 0 and level 1](src/dataflow_1.jpeg)
 ![Level 2 logic 1 2 3 4](src/dataflow_2.jpeg)
 ![Level 2 logic 7](src/dataflow_5.jpeg)
 
-## Application Architechture Diagram
+### Application Architechture Diagram
 
 ![Architechture Diagram](./src/App-Architecture-Diagram/Tasmania-Resort-Architecture-Diagram.drawio.png)
 
-## User Stories
+### User Stories
 
-### As a customer...
+#### As a customer...
 
 <details>
   <summary> Hotel, souvenirs and food </summary>
@@ -297,7 +326,7 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 - As a customer who has questions regarding a product, I want to be able to live chat with a staff member so that my issue can be resolved as soon as possible.
 - As a customer who has visited the resort many times, I want to be a part of a rewards program so that I can receive discounts for being a loyal customer.
 
-## Wireframes
+### Wireframes
 
 <details>
   <summary>Home Page</summary>
@@ -414,4 +443,4 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 </details>
 
-## Screenshots of Trello Board
+### Screenshots of Trello Board
