@@ -236,7 +236,7 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 ### As a customer...
 
 <details>
-  <summary> Hotel, souvenirs and food </summary>
+  <summary> Accommodation, food, local products & tour packages </summary>
 
 - As a customer looking to stay at the hotel in Tasmania Resort, I want to book my hotel online so that it is easier to book my holiday.
 - As a customer looking to book a hotel room, I want easy access to view all available room types offered by this resort given the specified dates so that it is easy to view and compare my options.
@@ -244,6 +244,8 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 - As a customer who likes to gift friends and family souvenirs from trips, I want to be able to purchase souvenirs online incase I forget to buy them or run out of luggage space on the way back home so that I don't go home empty-handed.
 - As a customer looking to purchase some souvenirs, I want easy access to view all available souvenirs offered so that it is easy to view and compare my options.
 - As a customer who is interested in a specific souvenir, I want to be able to view more details about the product so that I can be informed about what I'm potentially buying.
+- As a customer looking to travel to Tasmania for a holiday, I want easy access to view all available tour packages offered by this resort so that it is easy to view and compare my options.
+- As a customer who is interested in a specific tour package, I want to be able to view more details about the package so that I can be informed about what I'm potentially buying.
 - As a customer who wants to dine at the resort, I want to be able to order food online so I can beat the rush at the restaurant.
 - As a customer looking to order some food, I want easy access to view all available food offered so that it is easy to view and compare my options.
 - As a customer who is interested in a particular dish, I want to be able to view more details about the dish so that I can be informed about what I'm potentially ordering.
@@ -292,8 +294,6 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 ### User stories for extra features if time allows
 
-- As a customer looking to travel to Tasmania for a holiday, I want easy access to view all available travel packages offered by this resort so that it is easy to view and compare my options.
-- As a customer who is interested in a specific travel package, I want to be able to view more details about the package so that I can be informed about what I'm potentially buying.
 - As a customer who has questions regarding a product, I want to be able to live chat with a staff member so that my issue can be resolved as soon as possible.
 - As a customer who has visited the resort many times, I want to be a part of a rewards program so that I can receive discounts for being a loyal customer.
 
