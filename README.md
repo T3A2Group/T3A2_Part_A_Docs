@@ -1,6 +1,37 @@
-# T3A2-A - Tasmania Resort
+<h1 align="center"> Weclome to Tasmania Resort </h1>
 
-## Purpose
+<p align="center">
+    <img src="./src/Company-Logo/Tasmania-Resort-Logo.jpeg">
+</p>
+
+## T3A2 - A - Tasmania Resort
+
+<p align="center">
+    <img src="./src/Company-Brochure/Tasmania-Resort-Brochure.png">
+</p>
+
+### Table of Contents
+
+- [Description of the website](#description-of-the-website)
+
+  - [Purpose](#purpose)
+  - [Functionality and Features](#functionality-and-features)
+  - [Target Audience](#target-audience)
+  - [Tech stack](#tech-stack)
+
+- [Dataflow Diagram](#dataflow-diagram)
+- [Application Architechture Diagram](#application-architechture-diagram)
+- [User Stories](#user-stories)
+- [Wireframes](#wireframes)
+- [Screenshots of Trello Board and workflow planning](#screenshots-of-trello-board-and-workflow-planning)
+  - [Screenshots of Trello Board](#screenshots-of-trello-board)
+  - [Group Workflow and Sprint Planning](#group-workflow-and-sprint-planning)
+
+<hr>
+
+## Description of the website
+
+### Purpose
 
 Our client Tasmania Resort, came from humble beginnings and has now grown into a successful and diverse business, offering services to people who are looking for a one-stop shop travel solution for Tasmania.
 
@@ -10,9 +41,9 @@ The website will offer everything a customer could need for the trip such as res
 
 Additionally, administrative functions such as product and order management can be provisioned to staff accounts to provide a fully integrated solution for the resort.
 
-## Functionality / features
+### Functionality and Features
 
-### Functionality
+#### Functionality
 
 <details>
   <summary> User management </summary>
@@ -88,8 +119,6 @@ Priority 2:
 
 1. It will have a cart page to organize the purchase of products.
 
-<!-- Online Checkout. -->
-
 2. It will have the payment function to organize the payment.
 
 3. It will have the webhook to ensure the payment is successful.
@@ -137,7 +166,7 @@ If we have more time:
 
 </details>
 
-### Features
+#### Features
 
 <details>
   <summary> Online shopping </summary>
@@ -245,43 +274,63 @@ If we have time:
 
 </details>
   
-## Target Audience
+### Target Audience
 
 This website is aimed at people who are looking for a one-stop shop travel solution for Tasmania with service offerings including accommodation, food, tours and shopping. The website is also for staff members at Tasmania Resort to perform operational tasks such as the management of product listings etc...
 
-## Tech stack
+### Tech stack
 
-### Front-end
+<details>
+  <summary>Front-end</summary>
 
-- HTML, CSS, Javascript, React, Axios, Material-UI
+- HTML
+- CSS
+- Javascript
+- React
+- Axios
+- Material-UI
+- React-Bootstrap
+</details>
 
-### Back-end
+<details>
+  <summary>Back-end</summary>
 
-- Node.js, Express.js
+- Node.js
+- Express.js
+</details>
 
-### Database
+<details>
+  <summary>Database</summary>
 
-- MongoDB, mongoose, AWS S3
+- MongoDB
+- Mongoose
+- AWS S3
+</details>
 
-### Testing
+<details>
+  <summary>Testing</summary>
 
 - Jest
+</details>
 
-### Deployment
+<details>
+  <summary>Deployment</summary>
 
-- Heroku
+- Netlify (front-end)
+- Heroku (back-end)
+</details>
 
-## Dataflow Diagram
+### Dataflow Diagram
 
 ![Dataflow Diagram](src/Dataflow-Diagram/DFD.jpeg)
 
-## Application Architechture Diagram
+### Application Architechture Diagram
 
 ![Architechture Diagram](./src/App-Architecture-Diagram/Tasmania-Resort-Architecture-Diagram.drawio.png)
 
-## User Stories
+### User Stories
 
-### As a customer...
+#### As a customer...
 
 <details>
   <summary> Accommodation, food, local products & tour packages </summary>
@@ -364,9 +413,10 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 </details>
 
-### As the manager of Tasmania Resort...
+#### As the manager of Tasmania Resort...
 
-#### Priority 1 - Minimum viable product
+<details>
+  <summary> Priority 1 - Minimum viable product </summary>
 
 - As the manager who needs to delegate tasks, I want to be able to assign administration access to staff accounts so that they can perform administrative tasks such as editing product details.
 - As the manager who manages the product offerings, I want to be able to add a new product (merchandise/hotel room type) for sale on the website so that they can be sold online when they are launched.
@@ -375,12 +425,17 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 - As the manager who needs to report sales performance to upper level management, I want to be able to see past sales of products and hotel rooms so that I can discuss them with my manager.
 - As the manager who needs to ensure the accuracy of product offerings on our website, I want to be able to remove a product/room type from the website so that customers are not disappointed when they can no longer buy the product or book that type of hotel room.
 
-#### If we have more time
+</details>
+
+<details>
+  <summary> If we have more time </summary>
 
 - As a manager who wants to make the resort workflow more efficient, I want to be able to see how many rooms are booked over the coming days so that I can better predict how much food and hotel supplies will be required.
 - As a manager, I want to be able to provision different admin function access to different staff members based on their role (e.g. chef, receptionist)
 
-## Wireframes
+</details>
+
+### Wireframes
 
 <details>
   <summary>Home Page</summary>
@@ -497,10 +552,14 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 </details>
 
-## Screenshots of Trello Board and workflow planning
+### Screenshots of Trello Board and workflow planning
 
-### Group Workflow and Sprint Planning
+<details>
+  <summary>Screenshots of Trello Board</summary>
+</details>
 
+<details>
+  <summary>Group Workflow and Sprint Planning</summary>
 At the start of this project, we met to ensure what kind of website application we all wanted to buid. We use the Trello board to monitor our work progress. We also split assignment requirements into 3 critical parts:
 
 1. Our website's architecture;
@@ -517,3 +576,5 @@ For our web application, we define it into 4 sprints.
 - Sprint 2: Complete all priority 2 functions.
 - Sprint 3: Refactor UI and adjust application for different screen size. Unit test for frontend and backend
 - Sprint 4: Try to complete the content of if we have time section.
+
+</details>
