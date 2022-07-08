@@ -16,58 +16,61 @@ Additionally, administrative functions such as product and order management can 
 
 <details>
   <summary> User management </summary>
+Priority 1:
 
 1. This application will allow users to create their own accounts to save all their profiles.
 
-2. User will have their own group. Staff and customer accounts will have different pages to let them use the application differently.
+2. User roles will be split into admin and client. Their role will have different administrative functions.
 
-<!-- Show the schedule. -->
+3. The user could open their own profile page to show the history of purchase and booking. 
 
-3. The user could open their own profile page to show the history of purchase and booking. And show/download the schedule of their booking.
+6. Users must log in before purchasing the item so that they will save purchase history.
 
-<!-- Keep feedback. -->
+Priority 2:
 
-4. The user could leave their opinion or suggestion after they purchase the item. And the website will display them.
+1. The user could leave their opinion or suggestion after they purchase the item. And the website will display them.
 
-5. The user could freely change their password and upload their own profile picture. (need to save the pic on the cloud -s3)
-
-6. Users have to log in before they purchase the item, so they will save purchase history.
+2. The user could freely change their password and upload their own profile picture. 
 
 If we have time :
 
-1. Staff accounts will have their own page to work on.
+- Admin will have their own page to work on.
 
 <!-- Guests with different VIP levels have different discounts. -->
 
-2. Customer accounts will have different VIP levels to get discounts or free services.
+- Client accounts will have different VIP levels to get discounts or free services.
 
-3. Staff accounts could send messages to other staff or leave group chat notices through this application.
+- Admin could send messages to other staff or leave group chat notices through this application.
 
+- Show/download the schedule of client booking.
 </details>
 
 <!-- Booking room online -->
 <details>
   <summary> Booking room online </summary>
+Priority 1:
 
-1. This application will allow user to book their room online.
+1. This application will allow the client to book their villas online.
 
-2. It will display all the available rooms with price and every kind of room will have its own detail pages.
+2. It will display all villa types with price and every vela type will have its detail pages.
 
-3. Each room can only book once at the same time.
+3. Each villa can only book once at the same time.
 
-4. When customers book a room it will let them choose the time they want to stay and filter the available rooms.
+4. Whenever the room is booked we should let staff confirm. The booking will be done whenever the staff confirms the booking.
 
-5. It will have the payment function to organize the payment.
+Priority 2:
 
-If we have time :
+1. While vale is booked, show the unavailable tag at the villa on both the list and product detail page.
 
-1. It will have the webhook to ensure the payment is successful.
+2. Search and filter.
 
-2. Every time when the room is booked we should let staff confirm. The booking will be done whenever the staff confirms the booking.
+3. It will have the payment function to organize the payment.
 
-<!-- Chef prepare list. -->
+4. It will have the webhook to ensure the payment is successful.
 
-3. The application should show the staff how many rooms are used in the next few days and it should give the chef the number of people, to help them prepare the food.
+if we have time: 
+
+- The application should show the staff how many rooms are used in the next few days and it should give the chef the number of people, to help them prepare the food.
 
 </details>
 
@@ -75,19 +78,21 @@ If we have time :
 <details>
   <summary> Online souvenirs shopping </summary>
 
+Priority 1:
+
 1. This application allows users to buy souvenirs online.
 
 2. It will display all the items on the webpage and each item will have the product details page/pop-up.
 
-3. It will have a cart page to organize the purchase of products.
+Priority 2:
+
+1. It will have a cart page to organize the purchase of products.
 
 <!-- Online Checkout. -->
 
-4. It will have the payment function to organize the payment.
+2. It will have the payment function to organize the payment.
 
-If we have time :
-
-1. It will have the webhook to ensure the payment is successful.
+3. It will have the webhook to ensure the payment is successful.
 
 </details>
 
@@ -95,32 +100,40 @@ If we have time :
 <details>
   <summary> Food services </summary>
 
-1. This application allows the user to choose or order their food when they are in the hotel.
+Priority 1:
 
-2. It should display menu to show customer witch kind of dishes is available.
+1. This application allows the user to choose or order their food.
 
-3. It will have the payment function to organize the payment.
+2. It should display a menu to show customers.
+
+Priority 2:
+
+1. It will have the payment function to organize the payment.
+
+2. It will have the webhook to ensure the payment is successful.
 
 If we have time :
 
-4. It will have the webhook to ensure the payment is successful.
-
-5. It should give the staff or chef a message to show when and what the customer ordered. And chef could use the application to ensure the food is finished prepared and sent to the correct customer.
+- It should give the staff or chef a message to show when and what the customer ordered. And chef could use the application to ensure the food is finished prepared and sent to the correct customer.
 
 </details>
 
 <details>
-  <summary> Booking the nearby tour </summary>
+  <summary> Booking tour package</summary>
 
-1. This application could show the available tour nearby.
+Priority 1:
+
+1. This application could show the available tour package.
 
 2. Each tour lane will have its own number limit and start/end time. Customers could book anyone they are interested in.
 
-3. Online checkout and webhook confirmation
+Priority 2:
+
+1. Online checkout and webhook confirmation
 
 If we have more time:
 
-1. Use API check the upcoming weather.
+- Use API to check the upcoming weather.
 
 </details>
 
@@ -128,16 +141,26 @@ If we have more time:
 
 <details>
   <summary> Online shopping </summary>
+  
+Priority 1:
 
 - Display the whole items and each item have its own details page.
 - Staff could Update/Delete the items and change the quantity.
+
+Priority 2:
+
+- User could add item to their cart.
+
 - Cart to let customers organize their purchases.
+
 - Users could check out online.
 
 </details>
 
 <details>
   <summary>  Display filter / search </summary>
+
+Priority 2:
 
 - Booking page will have the time and price filler.
 - All shopping pages will have a search bar to search the items or services.
@@ -147,54 +170,80 @@ If we have more time:
 <details>
   <summary>  Signup and Signin </summary>
 
+Priority 1:
+
 - User could sign up by using a unique email.
 - User could log in by using email/username + password.
+
+Priority 2:
+
 - User could change and update their password.
 - User could upload their profile picture to the cloud and use them.
 - User could leave feedback and they will display with the item/services.
-- If we have more time, the User could use a google account to log in.
+
+if we have time:
+- User could use a google account to log in.
 
 </details>
 
 <details>
   <summary>  Role Control </summary>
+  
+Priority 1:
 
-- Every user will have their own role. For example Customer, staff (admin, chef, front desk if we got time).
-- Staff account should be able to add, access, update and delete the item showing on the application.
-- Customer account could only access.
+- User could split into two types of roles client and admin.
+
+- Admin should be able to add, access, update and delete the item showing on the application.
+
+- Client can only view and make orders.
+
+- Guest can only view.
+
+- Customer should display their purchase history.
+
+- Admin could display all orders and confirm orders from this page.
+
 
 </details>
 
 <details>
   <summary>  Cloud save pictures </summary>
+  
+Priority 1:
+
+- Pictures are stored locally
+
+Priority 2:
 
 - User uploads the picture to the could use them as profile pictures.
-- Staff cloud use upload to change the display picture for each item. This picture should save in the cloud as well.
 
+- Admin use upload to change the display picture for each item. This picture should save in the cloud as well.
 </details>
 
 <details>
   <summary> Payment and webhook. </summary>
+Priority 2:
 
 - Application should let the user have the online payment. (PayPal, Strip...)
+
 - Should have the webhook to track whether the payment is successful or not.
 
 </details>
 
 <details>
-  <summary> Display/ download the schedule for user/staff. </summary>
+  <summary> Formate data and message system</summary>
 
-- Customer should display their purchase history and the schedule for the purchases.
-- Staff should display their message for the purchases. Like, confirm room booking, food order and tour booking.
-- If we have time we could format them to pdf and be able to download them.
+If we have time:
+- We could Formate data to pdf and allow user to download them.
+
+- we could build an application chat feature.
+
+- It allows customers could leave messages to staff and get askers.
+
+- It allows staff to talk with each other and have group chat areas.
 
 </details>
-
-<!-- 1. Send messages through the application
-   - If we have time we could build an application chat feature.
-   - It allows customers could leave messages to staff and get askers.
-   - It allows staff to talk with each other and have group chat areas. -->
-
+  
 ## Target Audience
 
 This website is aimed at people who are looking for a one-stop shop travel solution for Tasmania with service offerings including accommodation, food, tours and shopping. The website is also for staff members at Tasmania Resort to perform operational tasks such as the management of product listings etc...
@@ -223,7 +272,7 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 ## Dataflow Diagram
 
-![Level 0 and level 1](src/Dataflow-Diagram/DFD.jpeg)
+![Dataflow Diagram](src/Dataflow-Diagram/DFD.jpeg)
 
 ## Application Architechture Diagram
 
