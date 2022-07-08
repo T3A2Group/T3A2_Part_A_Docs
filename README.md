@@ -22,15 +22,15 @@ Priority 1:
 
 2. User roles will be split into admin and client. Their role will have different administrative functions.
 
-3. The user could open their own profile page to show the history of purchase and booking. 
+3. The user could open their own profile page to show the history of purchase and booking.
 
-6. Users must log in before purchasing the item so that they will save purchase history.
+4. Users must log in before purchasing the item so that they will save purchase history.
 
 Priority 2:
 
 1. The user could leave their opinion or suggestion after they purchase the item. And the website will display them.
 
-2. The user could freely change their password and upload their own profile picture. 
+2. The user could freely change their password and upload their own profile picture.
 
 If we have time :
 
@@ -68,7 +68,7 @@ Priority 2:
 
 4. It will have the webhook to ensure the payment is successful.
 
-if we have time: 
+if we have time:
 
 - The application should show the staff how many rooms are used in the next few days and it should give the chef the number of people, to help them prepare the food.
 
@@ -182,6 +182,7 @@ Priority 2:
 - User could leave feedback and they will display with the item/services.
 
 if we have time:
+
 - User could use a google account to log in.
 
 </details>
@@ -202,7 +203,6 @@ Priority 1:
 - Customer should display their purchase history.
 
 - Admin could display all orders and confirm orders from this page.
-
 
 </details>
 
@@ -234,6 +234,7 @@ Priority 2:
   <summary> Formate data and message system</summary>
 
 If we have time:
+
 - We could Formate data to pdf and allow user to download them.
 
 - we could build an application chat feature.
@@ -496,4 +497,23 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 </details>
 
-## Screenshots of Trello Board
+## Screenshots of Trello Board and workflow planning
+
+### Group Workflow and Sprint Planning
+
+At the start of this project, we met to ensure what kind of website application we all wanted to buid. We use the Trello board to monitor our work progress. We also split assignment requirements into 3 critical parts:
+
+1. Our website's architecture;
+2. Essential UI and functions;
+3. How the website handles input and output data and keeps these data secure.
+
+We also have our group workflow for arranging each member's work. Each Day, we will have a stand-up meeting in the morning. We will determine today's work plan, each team member will report their work progress, and before starting new work, each member needs to create a new Trello card and set a deadline. Each member also ensures to establish a necessary new branch of GitHub. When our respective work is completed, we need to merge the working git branch to the default branch (our default branch name is dev) and update our own Trello card.
+
+When the stage work is done, a review meeting is open. It can ensure that everyone understands each other's work content and makes appropriate refactor and update if necessary. After that, we can move to the next stage.
+
+For our web application, we define it into 4 sprints.
+
+- Sprint 1: Create MVP(minimum viable product). It should consist of all essential functions(all priority 1) and basic UI;
+- Sprint 2: Complete all priority 2 functions.
+- Sprint 3: Refactor UI and adjust application for different screen size. Unit test for frontend and backend
+- Sprint 4: Try to complete the content of if we have time section.
