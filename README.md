@@ -556,6 +556,12 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 <details>
   <summary>Screenshots of Trello Board</summary>
+  
+- Please kindly find the screenshot for Trello Board Part A,you can find more screenshots in the Trello folder and below link.  
+  
+  ![Trello img](./src/Trello/07-07-2022.jpg)
+
+- Trello Link : [Trello URL](https://trello.com/b/2RfqgUtb/t3a2)
 </details>
 
 <details>
