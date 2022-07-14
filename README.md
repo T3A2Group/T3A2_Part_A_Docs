@@ -1,13 +1,13 @@
 <h1 align="center"> Weclome to Tasmania Resort </h1>
 
 <p align="center">
-    <img src="./src/Company-Logo/Tasmania-Resort-Logo.jpeg">
+    <img src="./docs/Company-Logo/Tasmania-Resort-Logo.jpeg">
 </p>
 
 ## T3A2 - A - Tasmania Resort
 
 <p align="center">
-    <img src="./src/Company-Brochure/Tasmania-Resort-Brochure.png">
+    <img src="./docs/Company-Brochure/Tasmania-Resort-Brochure.png">
 </p>
 
 ### Table of Contents
@@ -322,11 +322,11 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 ### Dataflow Diagram
 
-![Dataflow Diagram](src/Dataflow-Diagram/DFD.jpeg)
+![Dataflow Diagram](docs/Dataflow-Diagram/DFD.jpeg)
 
 ### Application Architechture Diagram
 
-![Architechture Diagram](./src/App-Architecture-Diagram/Tasmania-Resort-Architecture-Diagram.drawio.png)
+![Architechture Diagram](./docs/App-Architecture-Diagram/Tasmania-Resort-Architecture-Diagram.drawio.png)
 
 ### User Stories
 
@@ -442,9 +442,9 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 - #### Home Page (no need login)
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Home-Component/Home-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Home-Component/Home-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Home-Component/Home-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Home-Component/Home-Component-T&M-Version.png)
 
 </details>
 
@@ -453,27 +453,27 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 - #### Our Villas Page (no need login)
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Products-Components/Resort-Lists/ResortProducts-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Products-Components/Resort-Lists/ResortProducts-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Products-Components/Resort-Lists/ResortProducts-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Products-Components/Resort-Lists/ResortProducts-Component-T&M-Version.png)
 
 - #### Our Specialties Page (no need login)
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Products-Components/Specialty-Lists/SpecialtyProducts-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Products-Components/Specialty-Lists/SpecialtyProducts-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Products-Components/Specialty-Lists/SpecialtyProducts-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Products-Components/Specialty-Lists/SpecialtyProducts-Component-T&M-Version.png)
 
 - #### Our Restaurant Page (no need login)
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Products-Components/Food-Lists/FoodProducts-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Products-Components/Food-Lists/FoodProducts-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Products-Components/Food-Lists/FoodProducts-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Products-Components/Food-Lists/FoodProducts-Component-T&M-Version.png)
 
 - #### Our Travel Page (no need login)
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Products-Components/Travel-Lists/TravelProducts-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Products-Components/Travel-Lists/TravelProducts-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Products-Components/Travel-Lists/TravelProducts-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Products-Components/Travel-Lists/TravelProducts-Component-T&M-Version.png)
 
 </details>
 
@@ -482,27 +482,27 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 - #### Each Villa Page (no need login)
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Product-Component/Each-Villa/EachVilla-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Product-Component/Each-Villa/EachVilla-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Product-Component/Each-Villa/EachVilla-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Product-Component/Each-Villa/EachVilla-Component-T&M-Version.png)
 
 - #### Each Specialty Page (no need login)
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Product-Component/Each-Specialty/Each-Specialty-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Product-Component/Each-Specialty/Each-Specialty-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Product-Component/Each-Specialty/Each-Specialty-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Product-Component/Each-Specialty/Each-Specialty-Component-T&M-Version.png)
 
 - #### Each Food Page (no need login)
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Product-Component/Each-Food/Food-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Product-Component/Each-Food/Food-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Product-Component/Each-Food/Food-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Product-Component/Each-Food/Food-Component-T&M-Version.png)
 
 - #### Each Travel Page (no need login)
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Product-Component/Each-Travel/TravelProduct-Components-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Product-Component/Each-Travel/TravelProduct-Components-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Product-Component/Each-Travel/TravelProduct-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Product-Component/Each-Travel/TravelProduct-Component-T&M-Version.png)
 
 </details>
 
@@ -511,9 +511,9 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 - #### User signin and signup Page
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Signin-Signup-Component/Auth-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Signin-Signup-Component/Auth-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Signin-Signup-Component/Auth-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Signin-Signup-Component/Auth-Component-T&M-Version.png)
 
 </details>
 
@@ -522,9 +522,9 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 - #### After Signin, user can checkout
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Checkout-Component/CheckOut-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Checkout-Component/CheckOut-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Checkout-Component/CheckOut-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Checkout-Component/CheckOut-Component-T&M-Version.png)
 
 </details>
 
@@ -533,9 +533,9 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 - #### Client Profile
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Client-Profile-Component/Client-Profile-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Client-Profile-Component/Client-Profile-Component-Desktop-Version.png)
 - Tablet and Mobile Version
-  ![Tablet & Mobile Version](./src/Tasmania-Resort-Wireframes/Client-Profile-Component/Client-Profile-Component-T&M-Version.png)
+  ![Tablet & Mobile Version](./docs/Tasmania-Resort-Wireframes/Client-Profile-Component/Client-Profile-Component-T&M-Version.png)
 
 </details>
 
@@ -544,11 +544,11 @@ This website is aimed at people who are looking for a one-stop shop travel solut
 
 - #### Admin Profile
 - Desktop Version
-  ![Desktop Version](./src/Tasmania-Resort-Wireframes/Admin-Component/Admin-Account-Component-Desktop-Version.png)
+  ![Desktop Version](./docs/Tasmania-Resort-Wireframes/Admin-Component/Admin-Account-Component-Desktop-Version.png)
 - Tablet Version
-  ![Tablet Version](./src/Tasmania-Resort-Wireframes/Admin-Component/Admin-Account-Component-Tablet-Version.png)
+  ![Tablet Version](./docs/Tasmania-Resort-Wireframes/Admin-Component/Admin-Account-Component-Tablet-Version.png)
 - Mobile Version
-  ![Mobile Version](./src/Tasmania-Resort-Wireframes/Admin-Component/Admin-Account-Component-Mobile-Version.png)
+  ![Mobile Version](./docs/Tasmania-Resort-Wireframes/Admin-Component/Admin-Account-Component-Mobile-Version.png)
 
 </details>
 
@@ -559,7 +559,7 @@ This website is aimed at people who are looking for a one-stop shop travel solut
   
 - Please kindly find the screenshot for Trello Board Part A,you can find more screenshots in the Trello folder and below link.  
   
-  ![Trello img](./src/Trello/07-07-2022.jpg)
+  ![Trello img](./docs/Trello/07-07-2022.jpg)
 
 - Trello Link : [Trello URL](https://trello.com/b/2RfqgUtb/t3a2)
 </details>
